@@ -40,3 +40,7 @@ Thumbs.db
 # Logs and temporary files
 *.log
 *.tmp
+
+# Local design notes (kept out of the public repository)
+docs/swr.md
+docs/nf.md
